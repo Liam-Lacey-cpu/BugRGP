@@ -5,6 +5,9 @@ Created on Wed Nov  6 22:53:28 2024
 
 @author: liaml
 """
+
+########
+
 class BugCharacter():
     name = ""
     health = 1.0
